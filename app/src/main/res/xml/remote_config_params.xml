@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<defaultsMap>
+    <entry>
+        <key>force_update</key>
+        <value>false</value>
+    </entry>
+    <entry>
+        <key>message</key>
+        <value>The app is currently under maintenance; you might face difficulty in using some
+            features.
+        </value>
+    </entry>
+</defaultsMap>
