@@ -8,8 +8,7 @@ This application also shows how to use Hilt and viewModel in a simple way.
 - **Programming Language**: [Kotlin](https://kotlinlang.org)
 - **Dependency Injection** : [Hilt](https://dagger.dev/hilt/)
 - **Fragment Management** : [Navigation Component](https://developer.android.com/guide/navigation/navigation-getting-started)
-- **Data Persistence and Cache** : [DataStore](https://developer.android.com/topic/libraries/architecture/datastore)
-- **Threading** : [Coroutines Kotlin Flow](https://developer.android.com/kotlin/flow)
+- **Cloud Service** : [Firebase Remote Config](https://firebase.google.com/docs/remote-config/get-started?platform=android)
 - **Design** : [Material Design, Dark Mode and Light Mode](https://material.io)
 
 ## Getting started
