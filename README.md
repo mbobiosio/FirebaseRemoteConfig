@@ -1,6 +1,6 @@
-## App First Launch Example
+## Firebase Remote Config
 
-A simple Android application written in Kotlin to showcase setting app first launch complete process. It uses [DataStore](https://developer.android.com/topic/libraries/architecture/datastore) which is a part of Android Jetpack to store data.
+A simple Android application written in Kotlin to illustrate setting up Firebase Remote Config with Dependency Injection. This service [Firebase Remote Config](https://firebase.google.com/docs/remote-config/get-started?platform=android) is used for experimental and feature rollout.
 This application also shows how to use Hilt and viewModel in a simple way.
 
 ### Details
